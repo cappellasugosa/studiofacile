@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Sitemap: https://studiofacile.studylab.workers.dev/sitemap.xml
